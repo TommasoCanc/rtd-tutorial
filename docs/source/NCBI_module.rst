@@ -1,7 +1,7 @@
 NCBI Module
 ===========
 
-.. _NCBI:
+.. _NCBI_module:
 
 
 .. code-block:: python
