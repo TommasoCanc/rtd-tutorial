@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'biodumpy'
+copyright = '2024, CBB Data Team'
+author = 'Cancellario, T.; Golomb, T.; Roldán, A.; Far, T.'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0'
+version = '0.0.1'
 
 # -- General configuration
 
