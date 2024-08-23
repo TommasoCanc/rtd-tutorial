@@ -9,7 +9,7 @@ The source list can be expanded based on an evaluation of user suggestions. We g
 
 The current modules are dedicated for the following databases:
 
-- :doc:`NCBI` (`National Center for Biotechnology Information`_)
+- :doc:`_NCBI_module` (`National Center for Biotechnology Information`_)
 .. _National Center for Biotechnology Information: https://www.ncbi.nlm.nih.gov
 
 - `BOLD`_ (Barcode of Life Data Systems)
