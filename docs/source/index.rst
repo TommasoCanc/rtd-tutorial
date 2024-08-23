@@ -24,6 +24,7 @@ Contents
    usage
    api
    modules
+   NCBI_module
 
 
 .. note::
