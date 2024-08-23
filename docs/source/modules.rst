@@ -18,3 +18,6 @@ The current modules are dedicated for the following databases:
 - `GBIF`_ (Global Biodiversity Information Facility)
 .. _GBIF: https://www.gbif.org/
 
+- `IUCN Red List`_ (IUCN Red List of Threatened Species)
+.. _IUCN Red List: https://www.iucnredlist.org/
+
