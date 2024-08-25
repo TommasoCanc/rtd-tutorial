@@ -21,10 +21,13 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-   modules
-   NCBI_module
+    usage
+    api
+    modules
+    NCBI_module
+    BOLD_module
+    IUCN_module
+    GBIF_module
 
 
 .. note::
