@@ -30,9 +30,15 @@ Contents
     GBIF_module
 
 Module Documentation
---------------------
+====================
+
+Lumache
+-------
+
 .. automodule:: lumache
    :members:
+   :undoc-members:
+   :show-inheritance:
 
 .. note::
 
