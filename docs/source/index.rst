@@ -29,6 +29,8 @@ Contents
     IUCN_module
     GBIF_module
 
+Module Documentation
+--------------------
 .. automodule:: lumache
    :members:
 
